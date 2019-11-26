@@ -1,4 +1,4 @@
-# Fun with WebGL 2.0 - Youtube Tutorial Series
+# [Fun with WebGL 2.0](https://but0n.github.io/FunWithWebGL2/) - Youtube Tutorial Series
 
 **Youtube Playlist** : 
 https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF
